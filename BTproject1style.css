@@ -1,0 +1,138 @@
+
+.box{
+    background-color:  gray;
+    height: 294vh;
+    width: 100vw;
+}
+.containt h3{
+
+    
+    color: red;
+    margin-bottom: 1.5rem;
+}
+
+
+.containt2 h1{
+    /* height: 100px; */
+    /* width: 200px; */
+    font-size: 40px;
+    /* background:rgb(198, 192, 192); */
+    
+}
+
+.navbar{
+ color: red;
+}
+
+.container2 h1{
+    margin-top: 1rem;
+    height: 25vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 50px;
+}
+.services{
+    /* color: red; */
+    /* border: 5px solid red; */
+    height: 201vh;
+    
+}
+.services-cols{
+    /* border: 1px solid green; */
+}
+
+.services-calls2{
+    /* border: 2px solid black; */
+    /* margin-top: 2rem; */
+    
+}
+.services-calls2 .card{
+    border: 5px solid black;
+    transition: all ease .5s;
+
+}
+
+.services-cols3{
+
+    /* border: 1px solid pink; */
+    margin-top: 2rem;
+}
+
+.services-cols .card:hover{
+    box-shadow: 10px 10px 15px red;
+    margin-top: -10px;
+    cursor: pointer;
+    rotate: 7deg;
+}
+
+.services-cols .card{
+    border: 5px solid black;
+    transition: all ease .5s;
+}
+
+.services-calls2 .card:hover{
+
+    box-shadow: 10px 10px 15px red;
+    margin-top: -10px;
+    cursor: pointer;
+}
+
+.services-cols3 .card{
+    border: 5px solid black;
+    transition: all ease .5s;
+}
+
+.services-cols3 .card:hover{
+    box-shadow: 10px 10px 15px red;
+    margin-top: -10px;
+    cursor: pointer;
+    rotate:7deg;
+}
+
+.container4 h4{
+    height: 100vh;
+    border :3px solid red;
+    
+}
+.container-fluid{
+    /* height: 20vh; */
+}
+.container2 img{
+    /* box-shadow: 10px 10px 15px red; */
+    margin-top: -10px;
+    transition: all ease .5s;
+    cursor: pointer;
+}
+.container2 img:hover{
+    /* box-shadow: 1px 1px 1000px red; */
+    margin-bottom: -17px;
+
+
+    /* rotate: 10deg; */
+
+}
+.carousel-item img{
+    height:80vh;
+}
+.navbar{
+    position: fixed;
+    z-index: 1000;
+    width: 99vw;
+}
+.row .card{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+/* .container-fluid ul li a{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+} */
+.services .container h1{
+    /* text-shadow: 10px 10px 15px red; */
+    
+}
